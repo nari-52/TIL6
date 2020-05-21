@@ -33,7 +33,6 @@ public class Example02 {
 		buttonSearch.click();
 		// 검색버튼을 클릭한다.
 		
-		
 		// driver.close(); // 꼭 해주어야 한다. 
 		// 브라우저창이 열린 뒤 닫히므로 우리는 안 닫게하려고 주석처리를 할 뿐이다. 
 
